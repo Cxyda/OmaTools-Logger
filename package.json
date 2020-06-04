@@ -1,0 +1,18 @@
+
+{
+	"name": "de.oma.tools.gdorganizer",
+	"displayName": "OMA-Tools GD Organizer",
+	"description": "This package provides a basic system to handle GD data for your game",
+	"version": "0.2.1",
+	"unity": "2018.3",
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Cxyda/OmaTools-GDOrganizer.git"
+	},
+	"src": "Assets/Plugins/O.M.A.Games/GD-Organizer",
+	"author": "cxyda <cxyda@polybeast.de> (https://github.com/Cxyda)",
+	"dependencies": {
+		"de.oma.tools.core": "https://github.com/Cxyda/OmaTools-Core.git#0.2.1"
+	}
+}
